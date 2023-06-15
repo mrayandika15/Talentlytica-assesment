@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  padding: 10px;
+  border: #d3d3d3 0.5px solid;
+  border-radius: 15px;
+  width: fit-content;
+  height: fit-content;
+}
+
+.avatar img {
+  width: 30px;
+  height: auto;
+  border-radius: 100%;
+}
+
+.name {
+  font-size: small;
+}
